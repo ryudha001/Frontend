@@ -1,3 +1,9 @@
+#Step to run Frontend uki challenge project :
+    1. git clone https://github.com/ryudha001/Frontend.git
+    2. go to directory Frontend on CMD, then run "npm install"
+    3. on Directory Frontend, run "ng serve"
+
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
